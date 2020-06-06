@@ -1,6 +1,5 @@
 Baselines:  
-1) Wavelet transform algorithm 
-- Classic Computer Vision techniques[1].
+1) Wavelet transform algorithm - Classic Computer Vision techniques[1].
 2) IFCNN: A general image fusion
  framework based on convolutional
  neural network [2] - Deep Learning model
@@ -8,6 +7,7 @@ Baselines:
 Proposed solution: Deep Learning model:
 FusionCGAN: An end-to-end fusion method
 for few-focus images using conditional GAN [3].
+
 Metrics: 
 qualitative evaluation - 28 people were interviewed;
 quantitative evaluation: the Blind/Referenceless Image Spatial QUality Evaluator (BRISQUE) score [4], A pretrained CNN (CNNIQA) score [5].
