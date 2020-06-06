@@ -5,7 +5,7 @@ The aim of our project is to apply deep learning techniques in the field of opti
 - Fast scanning image deblurring. Obtaining of the high quality images requires much more time while scanning. The idea is to reuse DL deblurring techniques for fast scanning when we can reconstruct original image from one obtained from fast movement.
 - Focus-stacking (Multi-Focus fusion). Because of the main feature of optical microscopes is shallow depth of focus, therefore volume specimen can not be studied from one focal length -- user should change it mechanically to understand the structure of sample. The idea is to apply all-in-focus technique to construct the image where all the parts are sharp.
 
-![](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/images/autoencoder.png)
+![](https://github.com/anastasiia-kornilova/MMDF/blob/master/pics/mobile_microscopy.PNG)
 
 The code was written by:
 
