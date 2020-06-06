@@ -11,24 +11,15 @@ The aim of our project is to apply deep learning techniques in the field of opti
 
 The code was written by:
 
-- Egor Sevriugov and Kirill Shcherbakov -  
-- Maria Begicheva and Olga Novitskaya - 
-- Mikhail Salnikov and Anastasiia Kornilova - 
+- Egor Sevriugov and Kirill Shcherbakov - Focus stacking for volume specimens 
+- Maria Begicheva and Olga Novitskaya - Deblurring and denoising
+- Mikhail Salnikov and Anastasiia Kornilova - In-focus/out-of-focus images filtering
 
-**AEbyForest: [Project](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest) | [Paper](https://arxiv.org/pdf/1709.09018.pdf) | [Report](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/AutoEncoder_by_Forest.pdf) | [Presentation](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/presentation/Presentation_AutoEncoder_by_Forest.pdf) | [Video](https://www.dropbox.com/s/v0iiwld87gk658y/zoom_0.mp4?dl=0)**
+**MMDF: [Project](https://github.com/anastasiia-kornilova/MMDF) | [Report]() | [Presentation]() | **
 
-Train MNIST/Test MNIST
-![](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/images/Merged_MNIST.png)
+**Multi-focus image fusion**
+![](https://github.com/anastasiia-kornilova/MMDF/blob/master/pics/zoom_comparison.png)
 
-Train CIFAR10/Test CIFAR10
-![](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/images/Merged_CIFAR10.png)
-
-
-## Colab Notebook
-- Tree ensemble based AE (MNIST, CIFAR-10, Omniglot): [Google Colab](https://colab.research.google.com/github/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/eForest_models/eForest_ml%20.ipynb) | [Code](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/tree/master/eForest_models)
-- CNN based AE (MNIST, CIFAR-10, Omniglot): [Google Colab](https://colab.research.google.com/github/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/CNN_models/CNNs_models.ipynb) | [Code](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/tree/master/CNN_models)
-- MLP based AE (MNIST, Omniglot): [Google Colab](https://colab.research.google.com/github/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/MLP_models/MLP_MNIST.ipynb) | [Code](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/MLP_models/MLP_MNIST.ipynb)
-- MLP based AE (CIFAR-10, Omniglot): [Google Colab](https://colab.research.google.com/github/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/MLP_models/MLP_CIFAR_10.ipynb) | [Code](https://github.com/Olga013/Skoltech-ML-2020-AutoEncoder-by-Forest/blob/master/MLP_models/MLP_CIFAR_10.ipynb)
 
 ## Prerequisites
 - Python 3
@@ -41,5 +32,5 @@ The dataset contains the videos of z-stack scanning recorded by a smartphone mic
 
 ## Related Projects
 
-- The official implementation for the paper "AutoEncoder by Forest" by Ji Feng and Zhi-Hua Zhou 2017:  [Paper](https://arxiv.org/pdf/1709.09018.pdf) | [Code](https://github.com/kingfengji/eForest)
-- Non-official implementation of the paper "AutoEncoder by Forest" by Ji Feng and Zhi-Hua Zhou 2017 by Antoine Passemiers:  [Paper](https://arxiv.org/pdf/1709.09018.pdf) | [Code](https://github.com/AntoinePassemiers/Encoder-Forest)
+- "IFCNN: A General Image Fusion Framework Based on Convolutional Neural Network, Information Fusion, 54 (2020) 99-118":  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253518305505) | [Code](https://github.com/uzeful/IFCNN)
+- "FFusionCGAN: An end-to-end fusion method for few-focus images using conditional GAN in cytopathological digital slides":  [Paper](https://arxiv.org/abs/2001.00692) | [Code](https://github.com/GengXieBo/fusion)
