@@ -24,7 +24,7 @@ The code was written by:
 ![](https://github.com/anastasiia-kornilova/MMDF/blob/master/pics/in_out_focus_classificator.PNG)
 
 **Image deblurring**
-![](https://github.com/anastasiia-kornilova/MMDF/blob/master/pics/zoom_comparison.png)
+![](https://github.com/anastasiia-kornilova/MMDF/blob/master/pics/deblur.PNG)
 
 ## Prerequisites
 - Python 3
