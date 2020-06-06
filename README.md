@@ -15,7 +15,7 @@ The code was written by:
 - Maria Begicheva and Olga Novitskaya - Deblurring and denoising
 - Mikhail Salnikov and Anastasiia Kornilova - In-focus/out-of-focus images filtering
 
-**MMDF: [Project](https://github.com/anastasiia-kornilova/MMDF) | [Report]() | [Presentation]() | **
+**MMDF: [Project](https://github.com/anastasiia-kornilova/MMDF) | [Report]() | [Presentation]()**
 
 **Multi-focus image fusion**
 ![](https://github.com/anastasiia-kornilova/MMDF/blob/master/pics/zoom_comparison.png)
