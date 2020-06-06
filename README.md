@@ -20,6 +20,11 @@ The code was written by:
 **Multi-focus image fusion**
 ![](https://github.com/anastasiia-kornilova/MMDF/blob/master/pics/zoom_comparison.png)
 
+**In/Out focus classificator**
+![](https://github.com/anastasiia-kornilova/MMDF/blob/master/pics/in_out_focus_classificator.PNG)
+
+**Image deblurring**
+![](https://github.com/anastasiia-kornilova/MMDF/blob/master/pics/zoom_comparison.png)
 
 ## Prerequisites
 - Python 3
