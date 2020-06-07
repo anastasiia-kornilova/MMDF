@@ -37,6 +37,8 @@ The dataset contains the videos of z-stack scanning recorded by a smartphone mic
 
 ## Related Projects
 
+- "DeblurGAN: Blind Motion Deblurring Using Conditional Adversarial Networks":
+ [Paper](https://arxiv.org/pdf/1711.07064.pdf) | [Code](https://github.com/KupynOrest/DeblurGAN)
 - "IFCNN: A General Image Fusion Framework Based on Convolutional Neural Network, Information Fusion, 54 (2020) 99-118":  [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253518305505) | [Code](https://github.com/uzeful/IFCNN)
 - "FFusionCGAN: An end-to-end fusion method for few-focus images using conditional GAN in cytopathological digital slides":  [Paper](https://arxiv.org/abs/2001.00692) | [Code](https://github.com/GengXieBo/fusion)
 - "Assessing microscope image focus quality with deep learning. BMC Bioinformatics 19, 77 (2018)." [Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2087-4) | [Code](https://github.com/google/microscopeimagequality)
